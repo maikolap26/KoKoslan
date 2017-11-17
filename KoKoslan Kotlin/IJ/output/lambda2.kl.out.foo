@@ -1,0 +1,3 @@
+let y  = 10.0 
+let fact  = \x .(x < 2.0  ? 1.0  : x * (fact (x - (1.0 ))))
+fact (5.0 )

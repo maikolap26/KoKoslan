@@ -1,0 +1,3 @@
+let x  = 666.0 
+let f  = x 
+x * x 
